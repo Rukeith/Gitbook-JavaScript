@@ -1,2 +1,6 @@
-# Gitbook-JavaScript
-A personal note about JavaScript which is written on gitbook
+# Rukeith 的 JavaScript 筆記
+
+這是一個我用來記錄 JavaScript 的筆記
+
+
+
